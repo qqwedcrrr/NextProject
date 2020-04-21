@@ -19,6 +19,7 @@
     "@types/node": "^13.9.0",
     "@types/react": "^16.9.23",
     "@types/react-dom": "^16.9.5",
+    "@typescript-eslint/eslint-plugin": "^2.29.0",
     "@zeit/next-css": "^1.0.1",
     "@zeit/next-less": "^1.0.1",
     "@zeit/next-typescript": "^1.1.1",
