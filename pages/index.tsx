@@ -2,7 +2,7 @@
 import NavBar from '../components/NavBar'
 import './style.less'
 
-const Index: any = () => { 
+const Index: React.FunctionComponent = () => { 
   const content = [
     {
       text: 'blog',

@@ -1,6 +1,6 @@
 import './style.less'
 
-const Index: any = () => <div className="index">
+const Index: React.FunctionComponent = () => <div className="index">
   <p className="red">home</p>
 </div>
 
