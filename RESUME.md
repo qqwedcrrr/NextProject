@@ -3,7 +3,7 @@
 --------
 ##  个人信息
 
-<img src="https://img0.baidu.com/it/u=3066636673,2546574579&fm=26&fmt=auto&gp=0.jpg" style="float: right" width="100" height="140" />
+<img src="./user-icon.png" style="float: right" width="100" height="140" />
 姓名：杨子涛  
 性别：男  
 出生年月：1994/7  
