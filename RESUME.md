@@ -1,6 +1,5 @@
 # <center>个人简历</center>
 
---------
 ##  个人信息
 
 <img src="./user-icon.png" style="float: right" width="100" height="140" />
