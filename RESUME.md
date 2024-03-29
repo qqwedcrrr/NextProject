@@ -10,11 +10,13 @@
 邮箱：493105923@qq.com   
 
 ##  项目经历
+  - **binance**
+    1. 基于React， redux/jotai， 先后开发了Cloud Futures & Simple Futures页面。
+    2. 基于React，Vite，jotai 开发了apx 的pre-market页面。
   - **美团**
     1. 基于Vue， Vue-router，Vuex 先后开发了笔笔抽红包、省钱专区、超级5折等美团App内的Hybrid页面。
     2. 基于Intersection Observer 开发了通用埋点组件，减少业务开发过程中埋点和业务的耦合程度。
     3. 基于webpack 开发了一个image-loader，可以将项目内的image根据配置来进行base64或者上传venus的处理。
-    <br />  
   - **携程**
     1. 基于React，React-router，Redux 先后开发了一日游首页、门票&玩乐首页、多项列表页、wifi&电话卡首页等携程App内的React-native页面。
     2. 基于React提供的Hooks方法，开发了Html5和React-native的公共组件，供业务开发的同学使用。
@@ -27,7 +29,13 @@
 
 
 ##  工作经历
-  - **2020年02月 &emsp;&emsp; -&emsp;&nbsp;&nbsp;至今** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **汉海信息技术(上海)有限公司 前端工程师**
+  - **2021年07月 - 至今** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Binance Cloud 前端工程师**  
+
+      1. 负责 mono repo 里 Cloud Futures, Simple Futures 产品的开发&迭代。
+      2. 开发了 Pre-Market & Pre-Market Futures 的产品页面。
+      <br />
+      
+  - **2020年02月 - 2021年07月** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **汉海信息技术(上海)有限公司 前端工程师**
 
       1. 负责 app 内的 Hybrid 页面的 开发及维护，主要负责多个营销活动的首页和列表页。  
       2. 负责 B 端和 M 端的项目的开发和维护。  
